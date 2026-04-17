@@ -24,7 +24,7 @@ It also scans subtitle (.srt) files for specific keywords and produces:
 2. A PDF containing diagnostic plots
 
 The system is designed to handle long recordings efficiently using chunking
-and multiprocessing.
+and multiprocessing. It runs best on cpus with higher core numbers, which becomes necessary to analyse multiple sound files over an hour long in a reasonable amount of time. By default it uses half the cores of the cpu for stability.
 
 
 WHAT THE SCRIPT DOES (HIGH LEVEL)
