@@ -27,7 +27,7 @@ The system is designed to handle long recordings efficiently using chunking
 and multiprocessing. It runs best on cpus with higher core numbers, which becomes necessary to analyse multiple sound files over an hour long in a reasonable amount of time.
 
 
-WHAT THE SCRIPT DOES (HIGH LEVEL)
+WHAT THE SCRIPT DOES
 ---------------------------------
 For each .wav file found in the directory tree:
 
