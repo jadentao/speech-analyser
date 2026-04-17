@@ -1,7 +1,7 @@
 # speech-analyser
 Creates a transcript and analyses for pitch, volume and keywords for audio files in the same directory, including sub directories.
 
-AUDIO ANALYSIS PIPELINE – README
+AUDIO ANALYSIS PIPELINE
 ===============================
 
 There are 2 scripts in this repository: fix_srt_timestamps.py and Final Analysis Code.py
