@@ -6,7 +6,7 @@ AUDIO ANALYSIS PIPELINE
 
 There are 2 scripts in this repository: fix_srt_timestamps.py and Final Analysis Code.py
 
-fix_srt_timestamps.py was only required for the original dataset given since the original .srt files had their timestamps formatted in a way that pysrt could not read, so running it corrects it.
+fix_srt_timestamps.py was only required for the original dataset since the .srt files included had their timestamps formatted in a way that pysrt could not read, so running it corrects it.
 
 Final Analysis Code.py is the script that does the analysis and generates reports. Details for this script is as follows:
 
