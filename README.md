@@ -102,15 +102,14 @@ DIRECTORY STRUCTURE
 -------------------
 The script recursively searches from its own directory:
 
-.
+```
 ├── analyze_audio.py
-├── README.txt
 ├── audio1.wav
 ├── audio1.srt
 ├── audio2.wav
 └── subfolder/
-    └── audio3.wav
-
+   └── audio3.wav
+```
 
 HOW TO RUN
 ----------
